@@ -5,5 +5,5 @@ Subiecte sesiune 2020 iunie master SDTW anul 1 semestrul 2
 
 Tehnici Big Data 
 Cloud Computing 
-Performantele si Fiabilitatea Cistemelor Complexe
+Performantele si Fiabilitatea Sistemelor Complexe
 Vedere Artificiala
